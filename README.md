@@ -25,4 +25,5 @@ O painel pode ser acessado através desse link: <a href="https://app.powerbi.com
 O objetivo desse projeto foi criar um conjunto de gráficos e/ou tabelas que exibam métricas para servir de conscientização para Maio Amarelo. No Trânsito o Sentido é a Vida.
 
 ## 6. Próximos passos
-1. Explorar os dados para encontrar insights. 
+1. Explorar os dados para encontrar insights.
+2. Melhorar design do projeto.

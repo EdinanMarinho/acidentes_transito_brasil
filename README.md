@@ -7,6 +7,7 @@
 A organização por trás deste projeto me confiou uma base de dados, contendo informações relacionadas aos incidentes de trânsito em todo o Brasil. Esses dados oferece uma visão detalhada das rodovias, como por exemplo nome dos estados, cidades, tipos e classificação de acidentes. 
 
 Além disso conjunto de dados abrange uma variedade de informações sobre os próprios incidentes, como o dia da semana em que ocorreram, o tipo de acidente envolvido, bem como detalhes sobre as pessoas afetadas, incluindo qualquer registro de ferimentos.
+
 Explorando esses dados, tive a oportunidade de aprimorar habilidades analíticas, como também técnicas de visualização de dados e aplicar alguns conceitos de UX e UI Design e, uma oportunidade de contribuir para um futuro mais seguro nas estradas, transformando informações em ações que impactam positivamente a vida de muitos.
 
 ## 2. Premissas Assumidas
